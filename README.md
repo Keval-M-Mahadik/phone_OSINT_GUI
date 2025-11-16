@@ -35,11 +35,11 @@ Before using: check applicable laws & ethics in your jurisdiction for phone numb
 # 🚀 Getting started
 
 Clone the repository:
-///
+```
 git clone https://github.com/Keval-M-Mahadik/phone_OSINT_GUI.git
-///
+```
 
-Install dependencies (list them in your README) via /// pip install -r requirements.txt ///
+Install dependencies (list them in your README) via ``` pip install -r requirements.txt ```
 
 Launch the GUI (e.g., python main.py).
 

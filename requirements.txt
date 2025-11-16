@@ -1,0 +1,8 @@
+phonenumbers
+requests
+beautifulsoup4
+tkinter
+Pillow
+flask
+Opencagegeocoder    
+folium

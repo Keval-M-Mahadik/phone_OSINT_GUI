@@ -1,16 +1,16 @@
 # 📞 Phone_OSINT_GUI
 
-A simple Graphical User Interface (GUI) tool for performing OSINT (Open Source Intelligence) investigations on phone numbers — built in Python.
+ - A simple Graphical User Interface (GUI) tool for performing OSINT (Open Source Intelligence) investigations on phone numbers — built in Python.
 
 # 🧠 What it does
 
-Allows you to input a phone number and then uses OSINT techniques to gather publicly-available information.
+ - Allows you to input a phone number and then uses OSINT techniques to gather publicly-available information.
 
-Presents results in a user-friendly GUI rather than command line.
+ - Presents results in a user-friendly GUI rather than command line.
 
-Intended to help threat-analysts, security researchers or curious users investigate phone numbers in a structured manner.
+ - Intended to help threat-analysts, security researchers or curious users investigate phone numbers in a structured manner.
 
-Built with ease-of-use in mind — minimal setup, straight to the GUI.
+ - Built with ease-of-use in mind — minimal setup, straight to the GUI.
 
 # ✅ Why use it
 
@@ -34,18 +34,18 @@ Before using: check applicable laws & ethics in your jurisdiction for phone numb
 
 # 🚀 Getting started
 
-Clone the repository:
+ - Clone the repository:
 ```
 git clone https://github.com/Keval-M-Mahadik/phone_OSINT_GUI.git
 ```
 
-Install dependencies (list them in your README) via ``` pip install -r requirements.txt ```
+ - Install dependencies (list them in your README) via ``` pip install -r requirements.txt ```
 
-Launch the GUI (e.g., python main.py).
+ - Launch the GUI (e.g., python main.py).
 
-Enter a phone number and run the tool.
+ - Enter a phone number and run the tool.
 
-Review results, export or act on them as needed.
+ - Review results, export or act on them as needed.
 
 # ⚠️ Important/legal disclaimer
 

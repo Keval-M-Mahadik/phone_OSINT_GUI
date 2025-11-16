@@ -1,4 +1,4 @@
-# phone_OSINT_GUI
+# Phone_OSINT_GUI
 
 A simple Graphical User Interface (GUI) tool for performing OSINT (Open Source Intelligence) investigations on phone numbers — built in Python.
 
@@ -31,3 +31,4 @@ Modular architecture (potentially) so you can plug in additional OSINT modules.
 Cross-platform (since built in Python).
 
 Before using: check applicable laws & ethics in your jurisdiction for phone number lookup / OSINT investigations.
+

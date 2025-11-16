@@ -32,3 +32,22 @@ Cross-platform (since built in Python).
 
 Before using: check applicable laws & ethics in your jurisdiction for phone number lookup / OSINT investigations.
 
+# 🚀 Getting started
+
+Clone the repository:
+///
+git clone https://github.com/Keval-M-Mahadik/phone_OSINT_GUI.git
+///
+
+Install dependencies (list them in your README) via /// pip install -r requirements.txt ///
+
+Launch the GUI (e.g., python main.py).
+
+Enter a phone number and run the tool.
+
+Review results, export or act on them as needed.
+
+# ⚠️ Important/legal disclaimer
+
+This tool is designed for legal, ethical and consented OSINT investigations only. It must not be used for harassment, stalking, or any unlawful purpose. Ensure you adhere to all relevant laws, privacy guidelines and ethical standards in your jurisdiction before use.
+
